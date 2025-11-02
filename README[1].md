@@ -127,5 +127,5 @@ crypto-volatility-prediction/
 ## 🧑‍💻 Author
 **Sagar Mitra**  
 Machine Learning & Data Analysis Enthusiast  
-📧 your_email@example.com  
-🌐 [GitHub Profile](https://github.com/yourusername)
+📧 sagarmitraantu@gmail.com  
+🌐 [GitHub Profile](https://github.com/Sagar-Mitra-2003)
